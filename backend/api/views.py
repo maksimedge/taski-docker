@@ -1,5 +1,4 @@
 from rest_framework import status, viewsets
-from rest_framework.authentication import BasicAuthentication
 from rest_framework.response import Response
 
 from .models import Task
